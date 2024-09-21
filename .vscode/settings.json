@@ -1,3 +1,9 @@
 {
-  "cSpell.words": ["Prescripto", "tailwindcss", "toastify"]
+  "cSpell.words": ["Prescripto", "speciality", "tailwindcss", "toastify"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
 }
